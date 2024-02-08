@@ -11,7 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+.ipynb_checkpoints\
 .ipynb_checkpoints\NaiveBayes-checkpoint.ipynb
+
 
 # Editor directories and files
 .vscode/*
