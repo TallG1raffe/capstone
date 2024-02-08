@@ -1,5 +1,6 @@
 import './App.css'
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
+import { Response } from './Response';
 
 export function App() {
 
@@ -12,8 +13,20 @@ export function App() {
   }
 
   const handleSubmit = (event) => {
-    event.preventDefault();
+    event.preventDefault()
     console.log(inputs);
+    const postURL = "http://localhost:3000/api/responses/"
+    fetch(postURL, {
+      method: 'POST',
+      mode: "no-cors",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(inputs),
+    })
+    .then(() => {
+      alert('POSTED')
+    })
   }
 
   return (
@@ -22,8 +35,8 @@ export function App() {
         <h2>Name</h2>
         <input
           type="text"
-          name="name"
-          value={inputs.name || ""}
+          name="employee_name"
+          value={inputs.employee_name || ""}
           onChange={handleChange}
         />
         <h2>Department</h2>
@@ -36,14 +49,15 @@ export function App() {
         <h2>Feedback</h2>
         <textarea
           type="text"
-          name="content"
-          value={inputs.content || ""}
+          name="feedback"
+          value={inputs.feedback || ""}
           onChange={handleChange}
           rows={4}
           cols={40} />
         <br />
         <input type="submit" />
       </form>
+      <Response />
     </>
   )
 }
