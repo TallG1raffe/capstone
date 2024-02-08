@@ -1405,5 +1405,348 @@
         "department": "Operations",
         "feedback": "Parker is reliable, but his reluctance to delegate tasks hampers team development. He needs to empower team members by assigning responsibilities.",
         "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 202,
+        "employee_name": "Avery Hayes",
+        "department": "Customer Service",
+        "feedback": "Avery is courteous, but his failure to address customer complaints promptly results in customer dissatisfaction. He needs to prioritize complaint resolution.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 203,
+        "employee_name": "Hayden Phillips",
+        "department": "IT",
+        "feedback": "Hayden is knowledgeable, but his lack of patience when assisting non-technical staff causes frustration. He needs to be more empathetic.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 204,
+        "employee_name": "Finley Richardson",
+        "department": "Research and Development",
+        "feedback": "Finley is insightful, but his failure to document research findings leads to duplication of efforts. He needs to maintain better records.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 205,
+        "employee_name": "Reese Turner",
+        "department": "Marketing",
+        "feedback": "Reese is creative, but his failure to adhere to brand guidelines undermines brand consistency. He needs to align his creativity with brand standards.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 206,
+        "employee_name": "Riley Fisher",
+        "department": "Sales",
+        "feedback": "Riley is energetic, but his failure to follow up with leads promptly results in lost opportunities. He needs to be more proactive in lead management.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 207,
+        "employee_name": "Quinn Hayes",
+        "department": "Engineering",
+        "feedback": "Quinn is skilled, but his tendency to prioritize individual tasks over team goals hampers project collaboration. He needs to focus more on teamwork.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 208,
+        "employee_name": "Parker Phillips",
+        "department": "Finance",
+        "feedback": "Parker is meticulous, but his failure to meet deadlines on time-sensitive projects causes delays. He needs to improve his time management skills.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 209,
+        "employee_name": "Sage Richardson",
+        "department": "Human Resources",
+        "feedback": "Sage is understanding, but his failure to address employee concerns promptly leads to dissatisfaction. He needs to prioritize employee well-being.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 210,
+        "employee_name": "Dakota Turner",
+        "department": "Operations",
+        "feedback": "Dakota is efficient, but his tendency to overlook safety protocols poses a risk to team members. He needs to prioritize safety in operations.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 211,
+        "employee_name": "Sawyer Barnes",
+        "department": "Customer Service",
+        "feedback": "Sawyer is patient, but his failure to resolve customer complaints on the first contact leads to customer frustration. He needs to improve first-contact resolution rates.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 212,
+        "employee_name": "Parker Hayes",
+        "department": "IT",
+        "feedback": "Parker is knowledgeable, but his failure to keep up with the latest technology trends hinders innovation. He needs to invest time in continuous learning.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 213,
+        "employee_name": "Avery Phillips",
+        "department": "Research and Development",
+        "feedback": "Avery is creative, but his failure to meet project deadlines affects project timelines. He needs to improve his time management skills.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 214,
+        "employee_name": "Hayden Richardson",
+        "department": "Marketing",
+        "feedback": "Hayden is innovative, but his failure to conduct market research leads to ineffective marketing strategies. He needs to base his decisions on data.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 215,
+        "employee_name": "Finley Turner",
+        "department": "Sales",
+        "feedback": "Finley is enthusiastic, but his failure to build rapport with clients affects customer relationships. He needs to focus on relationship building.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 216,
+        "employee_name": "Reese Fisher",
+        "department": "Engineering",
+        "feedback": "Reese's work often contains errors, causing delays and rework. He needs to improve his attention to detail.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 217,
+        "employee_name": "Riley Phillips",
+        "department": "Finance",
+        "feedback": "Riley frequently misses deadlines and fails to prioritize important tasks. He needs to improve his time management skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 218,
+        "employee_name": "Quinn Richardson",
+        "department": "Human Resources",
+        "feedback": "Quinn's lack of empathy towards employee concerns has created a negative work environment. He needs to improve his interpersonal skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 219,
+        "employee_name": "Parker Turner",
+        "department": "Operations",
+        "feedback": "Parker's disorganization has led to numerous errors in project execution. He needs to implement better systems for task management.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 220,
+        "employee_name": "Avery Barnes",
+        "department": "Customer Service",
+        "feedback": "Avery's rude behavior towards customers has resulted in several complaints. He needs to undergo customer service training.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 221,
+        "employee_name": "Hayden Hayes",
+        "department": "IT",
+        "feedback": "Hayden's inability to resolve technical issues promptly has caused frustration among users. He needs to improve his troubleshooting skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 222,
+        "employee_name": "Finley Phillips",
+        "department": "Research and Development",
+        "feedback": "Finley's resistance to feedback and collaboration has hindered progress on team projects. He needs to be more open-minded.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 223,
+        "employee_name": "Reese Turner",
+        "department": "Marketing",
+        "feedback": "Reese's lack of creativity in marketing campaigns has led to poor engagement. He needs to brainstorm more innovative ideas.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 224,
+        "employee_name": "Riley Richardson",
+        "department": "Sales",
+        "feedback": "Riley's aggressive sales tactics have alienated potential clients. He needs to adopt a more customer-centric approach.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 225,
+        "employee_name": "Quinn Fisher",
+        "department": "Engineering",
+        "feedback": "Quinn's frequent absenteeism has disrupted team productivity. He needs to improve his attendance record.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 226,
+        "employee_name": "Parker Phillips",
+        "department": "Finance",
+        "feedback": "Parker's lack of attention to detail in financial analysis has led to errors in reports. He needs to review his work more carefully.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 227,
+        "employee_name": "Avery Richardson",
+        "department": "Human Resources",
+        "feedback": "Avery's failure to address employee grievances promptly has resulted in low morale. He needs to prioritize employee concerns.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 228,
+        "employee_name": "Hayden Turner",
+        "department": "Operations",
+        "feedback": "Hayden's indecisiveness has caused delays in project execution. He needs to make decisions more promptly.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 229,
+        "employee_name": "Finley Barnes",
+        "department": "Customer Service",
+        "feedback": "Finley's lack of product knowledge has led to incorrect information being provided to customers. He needs to undergo product training.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 230,
+        "employee_name": "Reese Hayes",
+        "department": "IT",
+        "feedback": "Reese's failure to keep up with evolving technologies has hindered IT progress. He needs to invest time in learning new skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 231,
+        "employee_name": "Riley Phillips",
+        "department": "Research and Development",
+        "feedback": "Riley's inability to meet project deadlines consistently has delayed product launches. He needs to improve his time management.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 232,
+        "employee_name": "Quinn Richardson",
+        "department": "Marketing",
+        "feedback": "Quinn's failure to understand target market preferences has led to ineffective marketing strategies. He needs to conduct thorough market research.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 233,
+        "employee_name": "Parker Turner",
+        "department": "Sales",
+        "feedback": "Parker's lack of follow-up with leads has resulted in missed sales opportunities. He needs to be more proactive in lead management.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 234,
+        "employee_name": "Avery Fisher",
+        "department": "Engineering",
+        "feedback": "Avery's failure to communicate project updates has led to confusion among team members. He needs to improve his communication skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 235,
+        "employee_name": "Hayden Phillips",
+        "department": "Finance",
+        "feedback": "Hayden's errors in financial reporting have led to incorrect financial decisions. He needs to be more thorough in his work.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 236,
+        "employee_name": "Finley Richardson",
+        "department": "Human Resources",
+        "feedback": "Finley's lack of transparency in HR processes has led to mistrust among employees. He needs to improve transparency and communication.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 237,
+        "employee_name": "Reese Turner",
+        "department": "Operations",
+        "feedback": "Reese's resistance to change has hindered process improvements in operations. He needs to be more adaptable.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 238,
+        "employee_name": "Riley Barnes",
+        "department": "Customer Service",
+        "feedback": "Riley's impatience with customers has led to negative feedback. He needs to work on his customer service skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 239,
+        "employee_name": "Quinn Hayes",
+        "department": "IT",
+        "feedback": "Quinn's lack of responsiveness to IT issues has caused downtime in operations. He needs to prioritize urgent technical matters.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 240,
+        "employee_name": "Parker Richardson",
+        "department": "Research and Development",
+        "feedback": "Parker's failure to meet project milestones has delayed overall progress. He needs to manage his tasks more efficiently.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 241,
+        "employee_name": "Avery Turner",
+        "department": "Marketing",
+        "feedback": "Avery consistently delivers creative marketing campaigns that resonate well with our target audience. Keep up the excellent work!",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 242,
+        "employee_name": "Hayden Richardson",
+        "department": "Sales",
+        "feedback": "Hayden demonstrates exceptional salesmanship and consistently exceeds his targets. He is a valuable asset to the sales team.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 243,
+        "employee_name": "Finley Fisher",
+        "department": "Engineering",
+        "feedback": "Finley's meticulous approach to problem-solving ensures that our engineering projects are executed flawlessly. Great job!",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 244,
+        "employee_name": "Reese Phillips",
+        "department": "Finance",
+        "feedback": "Reese's attention to detail in financial analysis has been instrumental in making sound business decisions. Keep up the good work!",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 245,
+        "employee_name": "Riley Richardson",
+        "department": "Human Resources",
+        "feedback": "Riley's empathetic approach to handling employee concerns fosters a positive work culture. Thank you for your dedication!",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 246,
+        "employee_name": "Quinn Turner",
+        "department": "Operations",
+        "feedback": "Quinn's efficient management of operations ensures smooth workflow and high productivity levels. Keep up the great work!",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 247,
+        "employee_name": "Parker Barnes",
+        "department": "Customer Service",
+        "feedback": "Parker consistently provides exceptional customer service, resulting in high customer satisfaction ratings. Well done!",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 248,
+        "employee_name": "Sage Hayes",
+        "department": "IT",
+        "feedback": "Sage's quick response to IT issues minimizes downtime and ensures smooth operations. Your efforts are greatly appreciated!",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 249,
+        "employee_name": "Dakota Phillips",
+        "department": "Research and Development",
+        "feedback": "Dakota's innovative ideas drive our research projects forward, leading to groundbreaking discoveries. Keep up the innovative work!",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 250,
+        "employee_name": "Sawyer Richardson",
+        "department": "Marketing",
+        "feedback": "Sawyer's attention to detail in marketing campaigns ensures that every aspect is carefully crafted. Excellent work as always!",
+        "sentiment": "positive"
     }
 ]
