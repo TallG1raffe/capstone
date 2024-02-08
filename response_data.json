@@ -1,0 +1,702 @@
+[
+    {
+        "feedback_id": 1,
+        "employee_name": "John Doe",
+        "department": "Marketing",
+        "feedback": "John consistently meets his deadlines and produces high-quality work. He shows great initiative in exploring new marketing strategies.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 2,
+        "employee_name": "Jane Smith",
+        "department": "Sales",
+        "feedback": "Jane has shown significant improvement in her communication skills during client meetings. She is becoming more confident and articulate.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 3,
+        "employee_name": "David Johnson",
+        "department": "Engineering",
+        "feedback": "David needs to pay more attention to detail in his coding. He often overlooks small errors which lead to bugs in the software.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 4,
+        "employee_name": "Emily Brown",
+        "department": "Finance",
+        "feedback": "Emily consistently delivers accurate financial reports on time. Her attention to detail is commendable.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 5,
+        "employee_name": "Michael Wilson",
+        "department": "Human Resources",
+        "feedback": "Michael has excellent interpersonal skills and is very effective in resolving employee conflicts. He is an asset to the HR team.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 6,
+        "employee_name": "Sarah Clark",
+        "department": "Operations",
+        "feedback": "Sarah demonstrates strong leadership skills and is capable of efficiently managing complex projects. She consistently meets project deadlines.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 7,
+        "employee_name": "Daniel Lee",
+        "department": "Customer Service",
+        "feedback": "Daniel needs to work on his responsiveness to customer inquiries. There have been complaints about delayed responses.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 8,
+        "employee_name": "Amanda Garcia",
+        "department": "IT",
+        "feedback": "Amanda has excellent problem-solving skills and is quick to resolve technical issues. She is proactive in identifying potential problems.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 9,
+        "employee_name": "James Martinez",
+        "department": "Research and Development",
+        "feedback": "James has shown great creativity in his approach to research projects. However, he needs to improve his time management skills to meet project deadlines.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 10,
+        "employee_name": "Jennifer Rodriguez",
+        "department": "Marketing",
+        "feedback": "Jennifer demonstrates excellent communication skills and is very persuasive in her marketing pitches. She has contributed significantly to our recent marketing campaigns.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 11,
+        "employee_name": "Robert Nguyen",
+        "department": "Sales",
+        "feedback": "Robert has a positive attitude and is always willing to help his colleagues. However, he needs to focus on improving his sales numbers.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 12,
+        "employee_name": "Maria Hernandez",
+        "department": "Engineering",
+        "feedback": "Maria is a quick learner and has adapted well to new technologies. However, she needs to communicate more effectively with her team members.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 13,
+        "employee_name": "Christopher Lewis",
+        "department": "Finance",
+        "feedback": "Christopher consistently provides accurate financial forecasts, which are crucial for our budget planning. He is an integral member of the finance team.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 14,
+        "employee_name": "Jessica Taylor",
+        "department": "Human Resources",
+        "feedback": "Jessica is very organized and efficient in managing employee records. She ensures that HR processes run smoothly.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 15,
+        "employee_name": "Kevin King",
+        "department": "Operations",
+        "feedback": "Kevin has a strong work ethic and is dedicated to achieving results. However, he needs to delegate tasks more effectively to his team members.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 16,
+        "employee_name": "Ashley Wright",
+        "department": "Customer Service",
+        "feedback": "Ashley is friendly and approachable, which makes her well-suited for customer interactions. However, she needs to improve her product knowledge.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 17,
+        "employee_name": "Brian Adams",
+        "department": "IT",
+        "feedback": "Brian has a strong technical background and is capable of handling complex IT projects. However, he needs to communicate more clearly with non-technical stakeholders.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 18,
+        "employee_name": "Rebecca Walker",
+        "department": "Research and Development",
+        "feedback": "Rebecca consistently delivers innovative ideas and contributes positively to brainstorming sessions. However, she needs to work on documenting her research findings.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 19,
+        "employee_name": "Justin Campbell",
+        "department": "Marketing",
+        "feedback": "Justin has a creative approach to problem-solving and often comes up with unique marketing concepts. However, he needs to work on collaborating more effectively with his team.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 20,
+        "employee_name": "Stephanie Hill",
+        "department": "Sales",
+        "feedback": "Stephanie is proactive in identifying new leads and opportunities. However, she needs to work on closing deals more effectively.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 21,
+        "employee_name": "Ethan Turner",
+        "department": "Engineering",
+        "feedback": "Ethan demonstrates strong problem-solving skills and is quick to address technical challenges. However, he needs to communicate more effectively with other teams.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 22,
+        "employee_name": "Olivia Cox",
+        "department": "Finance",
+        "feedback": "Olivia is diligent in her financial analysis and provides valuable insights for decision-making. However, she needs to improve her presentation skills.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 23,
+        "employee_name": "Nathan Stewart",
+        "department": "Human Resources",
+        "feedback": "Nathan is proactive in addressing employee concerns and promoting a positive work culture. He effectively handles HR-related issues.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 24,
+        "employee_name": "Isabella Murphy",
+        "department": "Operations",
+        "feedback": "Isabella is detail-oriented and ensures that operations run smoothly. However, she needs to work on delegating tasks to her team members.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 25,
+        "employee_name": "Elijah Rivera",
+        "department": "Customer Service",
+        "feedback": "Elijah provides excellent customer support and effectively resolves issues. He maintains a positive attitude even in challenging situations.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 26,
+        "employee_name": "Sofia Ward",
+        "department": "IT",
+        "feedback": "Sofia demonstrates expertise in her technical skills and is quick to troubleshoot IT issues. However, she needs to improve her teamwork skills.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 27,
+        "employee_name": "Gabriel Cox",
+        "department": "Research and Development",
+        "feedback": "Gabriel is innovative in his approach to research projects and consistently delivers high-quality results. He is a valuable asset to the R&D team.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 28,
+        "employee_name": "Madison Murphy",
+        "department": "Marketing",
+        "feedback": "Madison has excellent creative skills and comes up with innovative marketing campaigns. However, she needs to work on meeting project deadlines.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 29,
+        "employee_name": "Jackson Gray",
+        "department": "Sales",
+        "feedback": "Jackson is persistent in pursuing sales opportunities and has shown improvement in closing deals. However, he needs to work on building stronger client relationships.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 30,
+        "employee_name": "Avery Carter",
+        "department": "Engineering",
+        "feedback": "Avery is skilled in software development and contributes effectively to team projects. However, he needs to communicate more openly about project progress.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 31,
+        "employee_name": "Chloe James",
+        "department": "Finance",
+        "feedback": "Chloe has a strong grasp of financial concepts and provides accurate financial reporting. However, she needs to work on managing her workload more efficiently.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 32,
+        "employee_name": "Mason Evans",
+        "department": "Human Resources",
+        "feedback": "Mason demonstrates empathy and professionalism in handling employee issues. He effectively promotes a positive work environment.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 33,
+        "employee_name": "Evelyn Richardson",
+        "department": "Operations",
+        "feedback": "Evelyn is organized and efficient in her role, ensuring smooth operations. However, she needs to work on providing more timely updates to stakeholders.",
+        "sentiment": "mixed"
+    },
+    {
+        "feedback_id": 34,
+        "employee_name": "Liam Wood",
+        "department": "Customer Service",
+        "feedback": "Liam is patient and attentive to customer needs. He consistently provides excellent service.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 35,
+        "employee_name": "Amelia Bennett",
+        "department": "IT",
+        "feedback": "Amelia is knowledgeable in IT systems and is quick to resolve technical issues. She effectively communicates solutions to users.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 36,
+        "employee_name": "Logan Cooper",
+        "department": "Research and Development",
+        "feedback": "Logan is creative and innovative in his research approach. He consistently delivers valuable insights.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 37,
+        "employee_name": "Abigail Price",
+        "department": "Marketing",
+        "feedback": "Abigail has excellent marketing skills and contributes creative ideas to campaigns. She effectively communicates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 38,
+        "employee_name": "Carter Parker",
+        "department": "Sales",
+        "feedback": "Carter is proactive in identifying sales opportunities and building client relationships. He consistently meets sales targets.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 39,
+        "employee_name": "Scarlett Hayes",
+        "department": "Engineering",
+        "feedback": "Scarlett is dedicated to her work and consistently produces high-quality results. She effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 40,
+        "employee_name": "Lucas Long",
+        "department": "Finance",
+        "feedback": "Lucas is detail-oriented and ensures accuracy in financial reporting. He effectively communicates financial data to stakeholders.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 41,
+        "employee_name": "Lily Russell",
+        "department": "Human Resources",
+        "feedback": "Lily is approachable and supportive in her role. She effectively handles employee queries and concerns.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 42,
+        "employee_name": "Henry Simmons",
+        "department": "Operations",
+        "feedback": "Henry is proactive in improving operational processes. He effectively delegates tasks and monitors progress.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 43,
+        "employee_name": "Grace Simmons",
+        "department": "Customer Service",
+        "feedback": "Grace is patient and empathetic in her interactions with customers. She effectively resolves issues and ensures customer satisfaction.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 44,
+        "employee_name": "Owen Wright",
+        "department": "IT",
+        "feedback": "Owen is knowledgeable in IT systems and provides timely technical support. He effectively troubleshoots issues and communicates solutions.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 45,
+        "employee_name": "Victoria Foster",
+        "department": "Research and Development",
+        "feedback": "Victoria is innovative in her research approach and consistently delivers valuable insights. She effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 46,
+        "employee_name": "Wyatt Baker",
+        "department": "Marketing",
+        "feedback": "Wyatt has excellent marketing skills and contributes creative ideas to campaigns. He effectively communicates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 47,
+        "employee_name": "Zoey Brooks",
+        "department": "Sales",
+        "feedback": "Zoey is proactive in identifying sales opportunities and building client relationships. She consistently meets sales targets.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 48,
+        "employee_name": "Leo Bailey",
+        "department": "Engineering",
+        "feedback": "Leo is dedicated to his work and consistently produces high-quality results. He effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 49,
+        "employee_name": "Ella Parker",
+        "department": "Finance",
+        "feedback": "Ella is detail-oriented and ensures accuracy in financial reporting. She effectively communicates financial data to stakeholders.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 50,
+        "employee_name": "Miles King",
+        "department": "Human Resources",
+        "feedback": "Miles is approachable and supportive in his role. He effectively handles employee queries and concerns.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 51,
+        "employee_name": "Nora Collins",
+        "department": "Operations",
+        "feedback": "Nora is proactive in improving operational processes. She effectively delegates tasks and monitors progress.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 52,
+        "employee_name": "Jack Powell",
+        "department": "Customer Service",
+        "feedback": "Jack is patient and empathetic in his interactions with customers. He effectively resolves issues and ensures customer satisfaction.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 53,
+        "employee_name": "Hazel Price",
+        "department": "IT",
+        "feedback": "Hazel is knowledgeable in IT systems and provides timely technical support. She effectively troubleshoots issues and communicates solutions.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 54,
+        "employee_name": "Caleb Watson",
+        "department": "Research and Development",
+        "feedback": "Caleb is innovative in his research approach and consistently delivers valuable insights. He effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 55,
+        "employee_name": "Ruby Foster",
+        "department": "Marketing",
+        "feedback": "Ruby has excellent marketing skills and contributes creative ideas to campaigns. She effectively communicates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 56,
+        "employee_name": "Eli Cox",
+        "department": "Sales",
+        "feedback": "Eli is proactive in identifying sales opportunities and building client relationships. He consistently meets sales targets.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 57,
+        "employee_name": "Aria Bryant",
+        "department": "Engineering",
+        "feedback": "Aria is dedicated to her work and consistently produces high-quality results. She effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 58,
+        "employee_name": "Gavin Carter",
+        "department": "Finance",
+        "feedback": "Gavin is detail-oriented and ensures accuracy in financial reporting. He effectively communicates financial data to stakeholders.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 59,
+        "employee_name": "Luna Adams",
+        "department": "Human Resources",
+        "feedback": "Luna is approachable and supportive in her role. She effectively handles employee queries and concerns.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 60,
+        "employee_name": "Mateo Hughes",
+        "department": "Operations",
+        "feedback": "Mateo is proactive in improving operational processes. He effectively delegates tasks and monitors progress.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 61,
+        "employee_name": "Ivy Mitchell",
+        "department": "Customer Service",
+        "feedback": "Ivy is patient and empathetic in her interactions with customers. She effectively resolves issues and ensures customer satisfaction.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 62,
+        "employee_name": "Easton Flores",
+        "department": "IT",
+        "feedback": "Easton is knowledgeable in IT systems and provides timely technical support. He effectively troubleshoots issues and communicates solutions.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 63,
+        "employee_name": "Nova Campbell",
+        "department": "Research and Development",
+        "feedback": "Nova is innovative in her research approach and consistently delivers valuable insights. She effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 64,
+        "employee_name": "Kai Richardson",
+        "department": "Marketing",
+        "feedback": "Kai has excellent marketing skills and contributes creative ideas to campaigns. He effectively communicates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 65,
+        "employee_name": "Jasper Turner",
+        "department": "Sales",
+        "feedback": "Jasper is proactive in identifying sales opportunities and building client relationships. He consistently meets sales targets.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 66,
+        "employee_name": "Athena Cox",
+        "department": "Engineering",
+        "feedback": "Athena is dedicated to her work and consistently produces high-quality results. She effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 67,
+        "employee_name": "Zane Parker",
+        "department": "Finance",
+        "feedback": "Zane is detail-oriented and ensures accuracy in financial reporting. He effectively communicates financial data to stakeholders.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 68,
+        "employee_name": "Delilah Adams",
+        "department": "Human Resources",
+        "feedback": "Delilah is approachable and supportive in her role. She effectively handles employee queries and concerns.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 69,
+        "employee_name": "Nolan Price",
+        "department": "Operations",
+        "feedback": "Nolan is proactive in improving operational processes. He effectively delegates tasks and monitors progress.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 70,
+        "employee_name": "Aurora Hill",
+        "department": "Customer Service",
+        "feedback": "Aurora is patient and empathetic in her interactions with customers. She effectively resolves issues and ensures customer satisfaction.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 71,
+        "employee_name": "Rowan Collins",
+        "department": "IT",
+        "feedback": "Rowan is knowledgeable in IT systems and provides timely technical support. He effectively troubleshoots issues and communicates solutions.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 72,
+        "employee_name": "Bella Watson",
+        "department": "Research and Development",
+        "feedback": "Bella is innovative in her research approach and consistently delivers valuable insights. She effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 73,
+        "employee_name": "Weston Foster",
+        "department": "Marketing",
+        "feedback": "Weston has excellent marketing skills and contributes creative ideas to campaigns. He effectively communicates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 74,
+        "employee_name": "Emery Cox",
+        "department": "Sales",
+        "feedback": "Emery is proactive in identifying sales opportunities and building client relationships. He consistently meets sales targets.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 75,
+        "employee_name": "Isla Bryant",
+        "department": "Engineering",
+        "feedback": "Isla is dedicated to her work and consistently produces high-quality results. She effectively collaborates with team members.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 76,
+        "employee_name": "Kaiden Carter",
+        "department": "Finance",
+        "feedback": "Kaiden is detail-oriented and ensures accuracy in financial reporting. He effectively communicates financial data to stakeholders.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 77,
+        "employee_name": "Riley Adams",
+        "department": "Human Resources",
+        "feedback": "Riley is approachable and supportive in her role. She effectively handles employee queries and concerns.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 78,
+        "employee_name": "Ezra Price",
+        "department": "Operations",
+        "feedback": "Ezra is proactive in improving operational processes. He effectively delegates tasks and monitors progress.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 79,
+        "employee_name": "Alice Hill",
+        "department": "Customer Service",
+        "feedback": "Alice is patient and empathetic in her interactions with customers. She effectively resolves issues and ensures customer satisfaction.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 80,
+        "employee_name": "Ian Collins",
+        "department": "IT",
+        "feedback": "Ian is knowledgeable in IT systems and provides timely technical support. He effectively troubleshoots issues and communicates solutions.",
+        "sentiment": "positive"
+    },
+    {
+        "feedback_id": 81,
+        "employee_name": "Aiden Reed",
+        "department": "Engineering",
+        "feedback": "Aiden struggles to meet project deadlines and often requires assistance from other team members. He needs to improve his time management skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 82,
+        "employee_name": "Brooklyn Coleman",
+        "department": "Finance",
+        "feedback": "Brooklyn's financial reports contain numerous errors, leading to discrepancies in budget planning. She needs to pay more attention to detail.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 83,
+        "employee_name": "Greyson Morgan",
+        "department": "Human Resources",
+        "feedback": "Greyson lacks empathy in his interactions with employees and often comes across as dismissive of their concerns. He needs to work on his interpersonal skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 84,
+        "employee_name": "Peyton Richardson",
+        "department": "Operations",
+        "feedback": "Peyton's lack of organization has led to several instances of missed deadlines and miscommunication within the team. She needs to improve her planning and coordination.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 85,
+        "employee_name": "Harper Kelly",
+        "department": "Customer Service",
+        "feedback": "Harper's attitude towards customers is often rude and unprofessional, leading to dissatisfaction among clients. She needs to undergo customer service training.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 86,
+        "employee_name": "Jordan Bailey",
+        "department": "IT",
+        "feedback": "Jordan is slow to respond to IT issues and often fails to provide adequate solutions. He needs to improve his technical skills and responsiveness.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 87,
+        "employee_name": "Taylor Parker",
+        "department": "Research and Development",
+        "feedback": "Taylor's research findings lack depth and originality, undermining the team's efforts. She needs to conduct more thorough investigations.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 88,
+        "employee_name": "Blake Mitchell",
+        "department": "Marketing",
+        "feedback": "Blake's marketing strategies are outdated and ineffective, resulting in poor campaign performance. He needs to stay updated with industry trends.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 89,
+        "employee_name": "Sydney Cooper",
+        "department": "Sales",
+        "feedback": "Sydney's sales techniques are aggressive and off-putting to clients. She needs to adopt a more consultative approach.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 90,
+        "employee_name": "Alexis Hill",
+        "department": "Engineering",
+        "feedback": "Alexis consistently fails to meet project requirements and lacks attention to detail in her work. She needs to undergo additional training.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 91,
+        "employee_name": "Hayden Watson",
+        "department": "Finance",
+        "feedback": "Hayden's financial analysis is often inaccurate, leading to poor decision-making. He needs to improve his analytical skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 92,
+        "employee_name": "Aubrey Adams",
+        "department": "Human Resources",
+        "feedback": "Aubrey's communication with employees is unclear, causing confusion and frustration. She needs to be more transparent in her interactions.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 93,
+        "employee_name": "Sawyer Price",
+        "department": "Operations",
+        "feedback": "Sawyer's disorganization has led to inefficiencies in operations and missed opportunities. He needs to improve his planning and execution.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 94,
+        "employee_name": "Reagan Cooper",
+        "department": "Customer Service",
+        "feedback": "Reagan's lack of product knowledge results in ineffective assistance to customers. She needs to undergo training to improve her expertise.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 95,
+        "employee_name": "Parker Brooks",
+        "department": "IT",
+        "feedback": "Parker frequently mishandles IT issues, causing delays in resolution and frustration among users. He needs to enhance his technical skills.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 96,
+        "employee_name": "Rowan Reed",
+        "department": "Research and Development",
+        "feedback": "Rowan's lack of commitment to research projects hampers progress and affects team morale. He needs to demonstrate more dedication.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 97,
+        "employee_name": "Riley Cox",
+        "department": "Marketing",
+        "feedback": "Riley's marketing strategies lack creativity and fail to capture audience interest. He needs to brainstorm new approaches.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 98,
+        "employee_name": "Finley Hill",
+        "department": "Sales",
+        "feedback": "Finley's sales performance is consistently below expectations, indicating a need for improvement in sales techniques and strategies.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 99,
+        "employee_name": "Quinn Mitchell",
+        "department": "Engineering",
+        "feedback": "Quinn's lack of collaboration with team members results in duplicated efforts and delays in project completion. He needs to improve teamwork.",
+        "sentiment": "negative"
+    },
+    {
+        "feedback_id": 100,
+        "employee_name": "Emerson Carter",
+        "department": "Finance",
+        "feedback": "Emerson's financial reports are consistently late and lack accuracy, causing disruptions in decision-making processes. He needs to improve his time management and attention to detail.",
+        "sentiment": "negative"
+    }
+]
