@@ -20,6 +20,7 @@ app.get("/api/responses", async (req, res) => {
 
 app.post("/api/responses", async (req, res) => {
   const data = req.body;
+  console.log(data)
   try {
     const client = await MongoClient.connect('mongodb://localhost:27017');
     const db = client.db('Feedback');
@@ -30,6 +31,26 @@ app.post("/api/responses", async (req, res) => {
   } catch (error) {
     console.log(error);
     res.status(500).json({ error: error });
+  }
+});
+
+app.get("/api/responses/:id", async (req, res) => {
+  const id = req.params.id;
+  const capitalized = id.charAt(0).toUpperCase() + id.slice(1);
+  console.log(capitalized)
+  try {
+    const client = await MongoClient.connect('mongodb://localhost:27017');
+    const db = client.db('Feedback');
+    const collection = db.collection('responses');
+    const responses = await collection.find({'department': capitalized}).toArray();
+    client.close();
+    if(responses) {
+      res.json(responses);
+    } else {
+      res.status(404).json({message: 'Responses not found'});
+    }
+  } catch (error) {
+    res.status(500).json({error: error});
   }
 });
 

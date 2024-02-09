@@ -1,0 +1,18 @@
+.feedback-list {
+  padding: 20px;
+}
+
+.feedback-list h2 {
+  margin-bottom: 10px;
+}
+
+.feedback-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.feedback-list li {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}

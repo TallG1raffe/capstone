@@ -6,7 +6,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 # curl -X POST http://localhost:5000/api/predict -H "Content-Type: application/json" -d "[[100,50],[78,67]]"
-@app.route('/api/predict', methods=['POST'])
+@app.route('/predict/feedback', methods=['POST'])
 def predict():
     with open('model.pkl', 'rb') as file:
         model = pickle.load(file)
