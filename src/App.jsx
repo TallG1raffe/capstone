@@ -15,10 +15,9 @@ export function App() {
   const handleSubmit = (event) => {
     event.preventDefault()
     console.log(inputs);
-    const postURL = "http://localhost:3000/api/responses/"
+    const postURL = "/api/responses/"
     fetch(postURL, {
       method: 'POST',
-      mode: "no-cors",
       headers: {
         "Content-Type": "application/json",
       },

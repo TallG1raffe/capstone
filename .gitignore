@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 model.pkl
+vect.pkl
 .ipynb_checkpoints\
 .ipynb_checkpoints\NaiveBayes-checkpoint.ipynb
 
