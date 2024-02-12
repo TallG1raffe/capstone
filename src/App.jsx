@@ -24,7 +24,7 @@ export function App() {
             </nav>
             <Form /></>} >
           </Route>
-          <Route path="/responses/:id" element={<Response />}></Route>
+          <Route path="home/responses/:id" element={<Response />}></Route>
         </Routes>
       </div >
     </>
