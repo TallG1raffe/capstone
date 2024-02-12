@@ -55,6 +55,7 @@ export function Form() {
         <input
           type="text"
           name="employee_name"
+          autocomplete="off"
           value={inputs.employee_name || ""}
           onChange={handleChange}
         />
@@ -62,6 +63,7 @@ export function Form() {
         <input
           type="text"
           name="department"
+          autocomplete="off"
           value={inputs.department || ""}
           onChange={handleChange}
         />
